@@ -19,4 +19,12 @@ Here are some ideas to get you started:
 
 
 ##Languages and Tools
+
 <img src="https://www.vectorlogo.zone/logos/javascript/javascript-vertical.svg" />
+<img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" />
+<img src="https://www.vectorlogo.zone/logos/python/python-vertical.svg"/>
+<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg"/>
+<img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg"/>
+<img src="https://www.vectorlogo.zone/logos/github/github-tile.svg"/>
+<img src=""/>
+<img src=""/>
