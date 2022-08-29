@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://cdn-icons-png.flaticon.com/128/3291/3291695.png"/>
+<img src="https://cdn-icons-png.flaticon.com/128/733/733553.png"/>
