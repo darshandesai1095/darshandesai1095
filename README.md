@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 -->
 
 
-<a style='margin-right:25px;'><img src="https://cdn-icons-png.flaticon.com/128/5968/5968292.png" width="50"/></a>
-<a><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" width="50"/></a>
-<a><img src="https://cdn-icons-png.flaticon.com/128/5968/5968350.png" width="50"/></a>
+<a style='margin-right:250px;'><img src="https://cdn-icons-png.flaticon.com/128/5968/5968292.png" width="50"/></a>
+<a style='margin-right:250px;'><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" width="50"/></a>
+<a style='margin-right:250px;'><img src="https://cdn-icons-png.flaticon.com/128/5968/5968350.png" width="50"/></a>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png" width="50"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pandas_mark.svg/1200px-Pandas_mark.svg.png" width="50"/>
 <img src="https://seeklogo.com/images/N/numpy-logo-479C24EC79-seeklogo.com.png" width="50"/>
