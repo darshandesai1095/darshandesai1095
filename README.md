@@ -16,3 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+##Languages and Tools
+<img href="https://www.vectorlogo.zone/logos/javascript/javascript-vertical.svg" />
