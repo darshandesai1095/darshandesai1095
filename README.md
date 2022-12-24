@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 <a style="display: inline-block; margin-right: 50px"><img src="https://cdn-icons-png.flaticon.com/128/5968/5968292.png" width="40"/></a>
 <a><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" width="40"/></a>
-<a><img src="![image](https://user-images.githubusercontent.com/43254178/209452762-ed586706-3c07-4126-9268-227f30eef49b.png)" width="40"/></a>
+<a><img src="https://user-images.githubusercontent.com/43254178/209452762-ed586706-3c07-4126-9268-227f30eef49b.png" width="40"/></a>
 <a><img src="https://cdn-icons-png.flaticon.com/128/5968/5968350.png" width="40"/></a>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png" width="40"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pandas_mark.svg/1200px-Pandas_mark.svg.png" width="40"/>
