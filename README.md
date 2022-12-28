@@ -17,17 +17,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## View some of my recent projects below...
+#### View some of my recent projects below...
 
-# A Trivia Game:
+##### A Trivia Game:
 
 https://darshandesai1095.github.io/quizzical-trivia-game/
 
-# A Graph Creator App Inspired By CodeBlocks:
+##### A Graph Creator App Inspired By CodeBlocks:
 
 https://gentle-chimera-e87178.netlify.app/
 
-# A Movie Database Site:
+##### A Movie Database Site:
 
 https://peppy-yeot-ee7b67.netlify.app/
 
