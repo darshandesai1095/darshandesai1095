@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 A Trivia Game: https://darshandesai1095.github.io/quizzical-trivia-game/
 
-A Graph Creator App Inspired By CodeBlocks: https://gentle-chimera-e87178.netlify.app/
+A Graph Creator App Inspired By ChartBlocks: https://gentle-chimera-e87178.netlify.app/
 
 A Movie Database Site: https://peppy-yeot-ee7b67.netlify.app/
 
