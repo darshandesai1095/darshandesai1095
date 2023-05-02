@@ -1,6 +1,6 @@
 ### Hi there! 👋🏽
 
-I'm <a href="https://darshandesai.io/">Darshan<a/>. I'm proficient in JavaScript and currently learning Front-End Development 🌐 I love solving problems and also have previous experience with Python and Matlab having worked on a number of Machine Learning projects 🤖
+I'm <a href="https://darshandesai.io/" target="_blank">Darshan<a/>. I'm proficient in JavaScript and currently learning Front-End Development 🌐 I love solving problems and also have previous experience with Python and Matlab having worked on a number of Machine Learning projects 🤖
 
 <!--
 **darshandesai1095/darshandesai1095** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
