@@ -1,4 +1,4 @@
-### Hi there!
+### Hi there! 👋🏽 
 
 I'm <a href="https://darshandesai.io/" target="_blank">Darshan<a/>, a skilled JavaScript developer with a strong focus on Front-End Development 🌐 I possess a solid understanding of web technologies and have been honing my skills to deliver exceptional user experiences.
 
