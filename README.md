@@ -2,20 +2,6 @@
 
 I'm <a href="https://darshandesai.io/" target="_blank">Darshan<a/>. I'm proficient in JavaScript and currently learning Front-End Development 🌐 I love solving problems and also have previous experience with Python and Matlab having worked on a number of Machine Learning projects 🤖
 
-<!--
-**darshandesai1095/darshandesai1095** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning React JS, Redux
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: darshandesai1095@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 #### View some of my recent front-end projects below...
 
@@ -35,5 +21,3 @@ A Movie Database Site: https://peppy-yeot-ee7b67.netlify.app/
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pandas_mark.svg/1200px-Pandas_mark.svg.png" width="40"/>
 <img src="https://seeklogo.com/images/N/numpy-logo-479C24EC79-seeklogo.com.png" width="40"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="40"/>
-
-
