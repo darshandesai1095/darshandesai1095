@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 #### View some of my recent front-end projects below...
 
-A Trivia Game: https://darshandesai1095.github.io/quizzical-trivia-game/
-
 A Graph Creator App Inspired By ChartBlocks: https://gentle-chimera-e87178.netlify.app/
+
+An Algorithm Vizualization Tool: https://classy-cheesecake-233ae7.netlify.app/
 
 A Movie Database Site: https://peppy-yeot-ee7b67.netlify.app/
 
