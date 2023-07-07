@@ -7,7 +7,7 @@ My knowledge and intersts extend beyond JavaScript, as I have successfully compl
 Let's collaborate and build something amazing together!
 
 
-#### View some of my recent front-end projects below...
+#### View some of my recent Front-End projects below...
 
 A Graph Creator App Inspired By ChartBlocks: https://gentle-chimera-e87178.netlify.app/
 
