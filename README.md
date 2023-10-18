@@ -2,7 +2,7 @@
 
 I'm <a href="https://darshandesai.io/" target="_blank">Darshan<a/>, a skilled JavaScript developer with a strong focus on Front-End Development 🌐 I possess a solid understanding of modern web technologies and have been honing my skills to deliver exceptional user experiences.
 
-My knowledge and intersts extend beyond JavaScript, as I have successfully completed various projects involving Python and Matlab, specifically in the field of Machine Learning 🤖 I approach problem-solving with enthusiasm and strive to create innovative solutions.
+My knowledge and interests extend beyond JavaScript, as I have successfully completed various projects involving Python and Matlab, specifically in the field of Machine Learning 🤖 I approach problem-solving with enthusiasm and strive to create innovative solutions.
 
 Let's collaborate and build something amazing together!
 
@@ -11,7 +11,7 @@ Let's collaborate and build something amazing together!
 
 Graph Creator App Inspired By ChartBlocks: https://gentle-chimera-e87178.netlify.app/
 
-Algorithm Vizualization Tool: https://classy-cheesecake-233ae7.netlify.app/
+Algorithm Visualization Tool: https://classy-cheesecake-233ae7.netlify.app/
 
 Realtime Group Chat Application: https://boisterous-sunburst-f3d32f.netlify.app/
 
