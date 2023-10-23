@@ -4,7 +4,7 @@ I'm <a href="https://darshandesai.io/" target="_blank">Darshan<a/>, a skilled Ja
 
 My knowledge and interests extend beyond JavaScript, as I have successfully completed various projects involving Python and Matlab, specifically in the field of Machine Learning 🤖 I approach problem-solving with enthusiasm and strive to create innovative solutions.
 
-Let's collaborate and build something amazing together!!
+Let's collaborate and build something amazing together!
 
 
 #### View some of my recent Front-End projects below...
