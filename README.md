@@ -2,7 +2,7 @@
 
 I'm <a href="https://darshandesai.io/" target="_blank">Darshan<a/>, a JavaScript developer with a focus on Front-End Development 🌐 I possess a solid understanding of modern web technologies and have been honing my skills to deliver exceptional user experiences.
 
-My knowledge and interests extend beyond JavaScript, as I have successfully completed various projects involving Python and Matlab, specifically in the field of Machine Learning 🤖 I approach problem-solving with enthusiasm and strive to create innovative solutions.
+My knowledge and interests extend beyond JavaScript, as I have completed various projects involving Python and Matlab, specifically in the field of Machine Learning 🤖 I approach problem-solving with enthusiasm and strive to create innovative solutions.
 
 Let's collaborate and build something amazing together!
 
