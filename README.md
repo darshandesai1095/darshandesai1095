@@ -11,9 +11,9 @@ Let's collaborate and build something amazing together!
 
 Algorithm Visualization Tool: https://classy-cheesecake-233ae7.netlify.app/
 
-Graph Creator App Inspired By ChartBlocks: https://gentle-chimera-e87178.netlify.app/
+Graph Builder App Inspired By ChartBlocks: https://gentle-chimera-e87178.netlify.app/
 
-Realtime Group Chat Application (MERN Stack): https://boisterous-sunburst-f3d32f.netlify.app/
+Realtime Group Chat App (MERN Stack): https://boisterous-sunburst-f3d32f.netlify.app/
 
 
 
