@@ -1,6 +1,8 @@
 ### Hi there! 👋 
 
-I'm Darshan, a skilled Python developer with a focus on data engineering and data analytics. I enjoy building robust data pipelines and optimizing data architectures to drive impactful decisions. I've successfully applied my knowledge of Python and Matlab in various machine learning projects, enabling me to engineer innovative solutions to complex data challenges. With a solid understanding of modern web technologies, I bring a unique perspective to data engineering, ensuring seamless integration of data-driven solutions.
+I'm Darshan, a skilled Python developer with a focus on data engineering and data analytics. I enjoy building robust data pipelines and optimizing data architectures to drive impactful decisions. I've successfully applied my knowledge of Python and Matlab in various machine learning projects, enabling me to engineer innovative solutions to complex data challenges.
+
+With a solid understanding of modern web technologies, I bring a unique perspective to data engineering, ensuring seamless integration of data-driven solutions.
 
 Let's collaborate and harness the power of data to build something extraordinary together!"
 
