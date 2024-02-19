@@ -1,21 +1,8 @@
 ### Hi there! 👋 
 
-I'm <a href="https://darshandesai.io/" target="_blank">Darshan<a/>, a JavaScript developer with a focus on Front-End Development 🌐 I possess a solid understanding of modern web technologies and have been honing my skills to deliver exceptional user experiences.
+I'm Darshan, a skilled Python developer with a focus on data engineering and data analytics. I enjoy building robust data pipelines and optimizing data architectures to drive impactful decisions. I've successfully applied my knowledge of Python and Matlab in various machine learning projects, enabling me to engineer innovative solutions to complex data challenges. With a solid understanding of modern web technologies, I bring a unique perspective to data engineering, ensuring seamless integration of data-driven solutions.
 
-My knowledge and interests extend beyond JavaScript, as I have completed various projects involving Python and Matlab, specifically in the field of Machine Learning 🤖 I approach problem-solving with enthusiasm and strive to create innovative solutions.
-
-Let's collaborate and build something amazing together!
-
-
-#### View some of my recent Front-End projects below...
-
-Algorithm Visualization Tool: https://classy-cheesecake-233ae7.netlify.app/
-
-Graph Builder App Inspired By ChartBlocks: https://gentle-chimera-e87178.netlify.app/
-
-Realtime Group Chat App (MERN Stack): https://boisterous-sunburst-f3d32f.netlify.app/
-
-
+Let's collaborate and harness the power of data to build something extraordinary together!"
 
 <!--
 <a style="display: inline-block; margin-right: 50px"><img src="https://cdn-icons-png.flaticon.com/128/5968/5968292.png" width="40"/></a>
