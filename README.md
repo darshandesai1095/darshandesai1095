@@ -4,7 +4,7 @@ I'm Darshan, a skilled Python developer with a focus on data engineering and dat
 
 With a solid understanding of modern web technologies, I bring a unique perspective to data engineering, ensuring seamless integration of data-driven solutions.
 
-Let's collaborate and harness the power of data to build something extraordinary together!"
+Let's collaborate and harness the power of data to build something extraordinary together!
 
 <!--
 <a style="display: inline-block; margin-right: 50px"><img src="https://cdn-icons-png.flaticon.com/128/5968/5968292.png" width="40"/></a>
