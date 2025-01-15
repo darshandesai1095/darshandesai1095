@@ -6,7 +6,7 @@ I'm a **Data Engineer & Analyst** with a **Master's in Engineering** from **Impe
 ## 🔧 **Technologies & Tools**:
 - **Programming**: Python, JavaScript, React, SQL
 - **Machine Learning**: TensorFlow, Scikit-learn, 
-- **Data**: Power BI, Data Engineering, PySpark, ETL Pipelines
+- **Data**: Power BI, PySpark, Data Engineering, ETL Pipelines
 
 ## 🌱 **Recent Projects**:
 - **[Algorithm Visualizer](https://github.com/darshandesai1095/algorithm-visualizer)**: Tool to visualize sorting algorithms using **React JS** and **Asynchronous Programming**.
