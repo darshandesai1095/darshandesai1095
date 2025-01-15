@@ -9,7 +9,7 @@ I'm a **Data Engineer & Analyst** with a **Master's in Engineering** from **Impe
 - **Data**: Power BI, PySpark, Data Engineering, ETL Pipelines
 
 ## 🌱 **Recent Projects**:
-- **[Algorithm Visualizer](classy-cheesecake-233ae7.netlify.app/)**: Tool to visualize sorting algorithms using **React JS** and **Asynchronous Programming**.
+- **[Algorithm Visualizer](https://classy-cheesecake-233ae7.netlify.app/)**: Tool to visualize sorting algorithms using **React JS** and **Asynchronous Programming**.
 - **[Descriptify.ai](https://www.descriptifyai.com)**: AI tool for generating tailored product descriptions for e-commerce businesses.
 - **[Graph Creator](https://gentle-chimera-e87178.netlify.app/)**: A graph creator inspired by **ChartBlocks**, built with **React JS**.
 
