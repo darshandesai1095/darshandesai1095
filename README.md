@@ -9,8 +9,8 @@ I'm a **Data Engineer & Analyst** with a **Master's in Engineering** from **Impe
 - **Data**: Power BI, Data Engineering, ETL Pipelines
 
 ## 🌱 **Recent Projects**:
+- **[Algorithm Visualizer](https://github.com/darshandesai1095/algorithm-visualizer)**: Tool to visualize sorting algorithms using **React JS** and **Asynchronous Programming**.
 - **[Descriptify.ai](https://www.descriptify.ai)**: AI tool for generating tailored product descriptions for e-commerce businesses.
-- **[Algorithm Visualizer](https://github.com/your-username/algorithm-visualizer)**: Tool to visualize sorting algorithms using **React JS** and **Asynchronous Programming**.
-- **[Graph Creator](https://github.com/your-username/graph-creator)**: A graph creator inspired by **ChartBlocks**, built with **React JS**.
+- **[Graph Creator](https://github.com/darshandesai1095/graph-creator)**: A graph creator inspired by **ChartBlocks**, built with **React JS**.
 
 If you're interested in my projects or would like to collaborate, feel free to **[message me on LinkedIn](https://www.linkedin.com/in/darshandesai95)**.
