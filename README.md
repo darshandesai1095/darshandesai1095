@@ -13,7 +13,4 @@ I'm a **Data Engineer & Analyst** with a **Master's in Engineering** from **Impe
 - **[Algorithm Visualizer](https://github.com/your-username/algorithm-visualizer)**: Tool to visualize sorting algorithms using **React JS** and **Asynchronous Programming**.
 - **[Graph Creator](https://github.com/your-username/graph-creator)**: A graph creator inspired by **ChartBlocks**, built with **React JS**.
 
-Feel free to explore my repositories or reach out! If you're interested in my projects, or if you'd like to collaborate, feel free to **[message me on LinkedIn](https://www.linkedin.com/in/darshandesai95)**.
-
-
-📫 **Contact**: [darshandesai1095@gmail.com](mailto:darshandesai1095@gmail.com)
+If you're interested in my projects or would like to collaborate, feel free to **[message me on LinkedIn](https://www.linkedin.com/in/darshandesai95)**.
