@@ -4,9 +4,9 @@ I'm a **Data Engineer & Analyst** with a **Master's in Mechanical Engineering** 
 
 
 ## 🔧 **Technologies & Tools**:
-- **Programming**: Python, JavaScript, React, SQL
+- **Programming**: Python, JavaScript, TypeScript, React
 - **Machine Learning**: TensorFlow, Scikit-learn
-- **Data**: Pandas, PySpark, Power BI
+- **Data**: SQL, Pandas, PySpark, Power BI
 
 ## 🌱 **Recent Projects**:
 - **[Algorithm Visualizer](https://classy-cheesecake-233ae7.netlify.app/)**: Tool to visualize sorting algorithms using **React JS** and **Asynchronous Programming**.
