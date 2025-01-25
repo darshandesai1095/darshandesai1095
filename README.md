@@ -10,7 +10,7 @@ I'm a **Data Engineer & Analyst** with a **Master's in Mechanical Engineering** 
 
 ## 🌱 **Recent Projects**:
 - **[HNSW Lite](https://github.com/darshandesai1095/hnsw_lite)**: A lightweight HNSW (Hierarchical Navigable Small World) implementation for efficient nearest-neighbour search, available as an open-source npm package.
-- **[Algorithm Visualizer](https://classy-cheesecake-233ae7.netlify.app/)**: Tool to visualize sorting algorithms using **React JS** and **Asynchronous Programming**.
+- **[Algorithm Visualizer](https://classy-cheesecake-233ae7.netlify.app/)**: Tool to visualize sorting algorithms built using **React JS**.
 <!--
 - **[Graph Creator](https://gentle-chimera-e87178.netlify.app/)**: A graph creator inspired by **ChartBlocks**, built with **React JS**.
 -->
