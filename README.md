@@ -1,6 +1,6 @@
 # Hi, I'm Darshan 👋
 
-I'm a **Data Engineer & Analyst** with a **Master's in Mechanical Engineering** from **Imperial College London**. I have experience in **data engineering** and **machine learning**, and have worked on a number of projects related to data processing, analysis, and **Robotic Process Automation** (RPA).
+I'm a **Data & Automation Specialis** with a **Master's in Mechanical Engineering** from **Imperial College London**. I have experience in **data engineering** and **machine learning**, and have worked on a number of projects related to data processing, analysis, and **Robotic Process Automation** (RPA).
 
 
 ## 🔧 **Technologies & Tools**:
