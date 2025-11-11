@@ -1,6 +1,6 @@
 🚀 Some of my projects...
 
-- **[Gromet (Automation Platform)](https://gromet.gitbook.io/docs)**: Desktop platform that allows users to run and share Python scripts as standalone applications, handling dependencies automatically and eliminating the need for setup or command-line usage.
+- **[Gromet (Automation Platform)](https://gromet.gitbook.io/docs)**: Desktop app that allows users to run and share Python scripts as standalone applications, handling dependencies automatically and eliminating the need for setup or command-line usage.
 - **[HNSW Lite](https://github.com/darshandesai1095/hnsw_lite)**: A simplified HNSW (Hierarchical Navigable Small World) implementation for efficient nearest-neighbour search, available as an open-source npm package.
 - **[Algorithm Visualizer](https://classy-cheesecake-233ae7.netlify.app/)**: Tool to visualize sorting algorithms built using **React JS**.
 
